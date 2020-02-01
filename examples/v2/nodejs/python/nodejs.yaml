@@ -23,4 +23,4 @@ resources:
 - name: nodejs
   type: nodejs.py
   properties:
-    zone: ZONE_TO_RUN
+    zone: us-central1-a
